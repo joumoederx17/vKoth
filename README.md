@@ -1,4 +1,4 @@
-![vKoth banner](https://imgur.com/aHxYUSh.png)
+![vKoth banner](https://imgur.com/ATEduXq.png)
 
 ---
 
