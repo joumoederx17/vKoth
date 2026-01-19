@@ -15,7 +15,7 @@ Lightweight, modular and built with modern Java & performance in mind.
 #### ⚔️ Why vKoth?
 
 - 🎯 **Dual capture modes:** time-based **or** point-based.  
-- 🚀 **Paper 1.8 – 1.20+** native support.  
+- 🚀 **Paper 1.20 – 1.21+** native support.  
 - 🎨 **MiniMessage** + **BossBar** + **Scoreboard** → 100 % customizable.  
 - 🧩 **Developer API** & event system for easy integration.  
 - 🗃️ **Multi-database:** SQLite, MySQL, MongoDB.  
