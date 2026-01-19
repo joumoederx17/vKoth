@@ -36,12 +36,13 @@ Restart your server and you're ready to go.
 
 # Windows
 gradlew.bat shadowJar
-```
-Output: build/libs/vKoth-X.X.X.jar
 
-###📩 Report Bugs / Request Features
+Output: build/libs/vKoth-X.X.X.jar
+```
+
+### 📩 Report Bugs / Request Features
 - Report a bug
 - Request a feature
 
-###📄 License
+### 📄 License
 This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** – you can’t sell or remove attribution.
