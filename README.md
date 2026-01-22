@@ -26,7 +26,7 @@ Requires **Java 17+** and **Paper** (or any Paper-fork) for best performance.
 ## ⚙️ How To
 
 ### 💾 Install
-Grab the latest `vKoth-X.X.X.jar` from [Spigot](https://www.spigotmc.org/resources/TU_ID_SPIGOT) or [GitHub Releases](https://github.com/TU_USUARIO/vkoth/releases) and drop it into the `plugins` folder.
+Grab the latest `vKoth-X.X.X.jar` from [Spigot](https://www.spigotmc.org/resources/TU_ID_SPIGOT) or [GitHub Releases](https://github.com/joumoederx17/vKoth/releases) and drop it into the `plugins` folder.
 Restart your server and you're ready to go.
 
 ### 🔨 Compile
