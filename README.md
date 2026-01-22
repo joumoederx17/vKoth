@@ -3,9 +3,8 @@
 ---
 
 <p align="center">
-  <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/joumoederx17/vkoth/build.yml?style=for-the-badge&logo=github">
   <a href="https://www.spigotmc.org/resources/TU_ID_SPIGOT"><img alt="Spigot Downloads" src="https://img.shields.io/spiget/downloads/TU_ID_SPIGOT?style=for-the-badge&logo=spigotmc"></a>
-  <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/joumoederx17/vkoth/total?style=for-the-badge&logo=github">
+  <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/joumoederx17/vKoth/total?style=for-the-badge&logo=github">
   <a href="https://discord.gg/bEXHGn7vVg"><img alt="Discord" src="https://img.shields.io/discord/1272993679581384786?style=for-the-badge&logo=discord&label=discord&color=%235865F2"></a>
 </p>
 
