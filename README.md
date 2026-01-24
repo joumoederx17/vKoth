@@ -11,7 +11,7 @@
 **vKoth** is the *next-generation* King of the Hill plugin for Paper/Spigot.
 Lightweight, modular and built with modern Java & performance in mind.
 
-#### ⚔️ Why vKoth?
+### ⚔️ Why vKoth?
 
 - 🎯 **Dual capture modes:** time-based **or** point-based.
 - 🚀 **Paper 1.20 – 1.21+** native support.
@@ -28,7 +28,7 @@ Requires **Java 17+** and **Paper** (or any Paper-fork) for best performance.
 Grab the latest `vKoth-X.X.X.jar` from [Spigot](https://www.spigotmc.org/resources/TU_ID_SPIGOT) or [GitHub Releases](https://github.com/joumoederx17/vKoth/releases) and drop it into the `plugins` folder.
 Restart your server and you're ready to go.
 
-### 🔨 Compile
+### 🔨 Compile (Not available at the moment)
 ```bash
 # Linux / macOS
 ./gradlew shadowJar
@@ -36,10 +36,11 @@ Restart your server and you're ready to go.
 # Windows
 gradlew.bat shadowJar
 ```
-Output: build/libs/vKoth-X.X.X.jar
 
-### 📩 Report Bugs / Request Features
-- Open a problem/ticket to report errors or request new features.
+## 📩 Report Bugs / Request Features
 
-### 📄 License
+Open a problem/ticket to report errors or request new features.
+
+## 📄 License
+
 This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** – you can’t sell or remove attribution.
