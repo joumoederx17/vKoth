@@ -37,7 +37,7 @@ Thumbs.db
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files (solo los que NO necesites trackear)
+# Package Files
 *.jar
 *.war
 *.nar
